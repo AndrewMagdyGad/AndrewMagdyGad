@@ -13,7 +13,7 @@
 
 ## About Me
 
-Senior Software Engineer with **8+ years** of experience building high-performance web architectures and distributed systems. I specialize in TypeScript, React.js, Node.js, and Go — with a track record of modernizing legacy systems at scale.
+Senior Software Engineer with **9+ years** of experience building high-performance web architectures and distributed systems. I specialize in TypeScript, React.js, Node.js, and Go — with a track record of modernizing legacy systems at scale.
 
 Currently at **Yassir** (leading African super app), architecting microservices in Go and leading cross-functional engineering squads across the CoreXP and Marketplace domains.
 
