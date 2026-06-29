@@ -4,7 +4,7 @@
 ### Senior Software Engineer · Product Lead · Cairo, Egypt 🌍
 
 [![Email](https://img.shields.io/badge/Email-andrewmagdygad%40gmail.com-0a66c2?style=flat-square&logo=gmail&logoColor=white)](mailto:andrewmagdygad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Magdy%20Gad-0a66c2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/andrew-magdy-gad-986b8aa6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Magdy%20Gad-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-magdy-gad-986b8aa6/)
 [![GitHub](https://img.shields.io/badge/GitHub-andrewmagdygad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andrewmagdygad)
 
 </div>
